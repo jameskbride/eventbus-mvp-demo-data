@@ -1,0 +1,19 @@
+{
+  "method": "GET",
+  "path": "/profile/.+",
+  "statusCode": 200,
+  "body": {
+    "firstName": "Walter",
+    "lastName": "White",
+    "addressLine1": "123 Street Ln",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zipCode": "87101",
+    "orderHistory": [
+      {
+        "id": 1,
+        "description": "Giant Burrito"
+      }
+    ]
+  }
+}
