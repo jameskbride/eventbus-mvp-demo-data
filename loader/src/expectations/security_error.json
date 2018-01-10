@@ -1,0 +1,5 @@
+{
+  "method": "GET",
+  "path": "/profile/2",
+  "statusCode": 401
+}
