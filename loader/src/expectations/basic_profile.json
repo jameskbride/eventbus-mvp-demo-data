@@ -13,6 +13,22 @@
       {
         "id": 1,
         "description": "Giant Burrito"
+      },
+      {
+        "id": 2,
+        "description": "Large Pizza"
+      },
+      {
+        "id": 3,
+        "description": "Giant Burrito"
+      },
+      {
+        "id": 4,
+        "description": "Industrial size beaker"
+      },
+      {
+        "id": 5,
+        "description": "Barrel of Methylamine"
       }
     ]
   }
