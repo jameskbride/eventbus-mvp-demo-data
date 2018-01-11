@@ -1,0 +1,27 @@
+{
+  "method": "GET",
+  "path": "/profile/4",
+  "statusCode": 200,
+  "body": {
+    "firstName": "Saul",
+    "lastName": "Goodman",
+    "addressLine1": "1 Main St",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zipCode": "87103",
+    "orderHistory": [
+      {
+        "id": 1,
+        "description": "Cinnabons"
+      },
+      {
+        "id": 2,
+        "description": "Pretzels"
+      },
+      {
+        "id": 3,
+        "description": "Bad Coffee"
+      }
+    ]
+  }
+}

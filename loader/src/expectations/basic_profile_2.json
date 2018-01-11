@@ -1,0 +1,23 @@
+{
+  "method": "GET",
+  "path": "/profile/3",
+  "statusCode": 200,
+  "body": {
+    "firstName": "Jessie",
+    "lastName": "Pinkman",
+    "addressLine1": "123 Avenue Way",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zipCode": "87102",
+    "orderHistory": [
+      {
+        "id": 1,
+        "description": "Tacos"
+      },
+      {
+        "id": 2,
+        "description": "50 Large Pizzas"
+      }
+    ]
+  }
+}
